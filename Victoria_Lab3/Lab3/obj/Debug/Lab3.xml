@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab3
+</name>
+</assembly>
+<members>
+<member name="T:Lab3.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lab3.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lab3.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Lab3.FrmAverageShipped">
+ <summary>
+ Victoria Valdron 100548556
+ NET DEVELOPMENT LAB 3
+ 2019-01-25
+ In this lab we have to create an application that takes in the input for 7 days, and calculate the average of all 7 inputs.
+ After this has been completed, we have to do this process 2 more times using 2d arrays to get the averages of 2 more employees.
+ The last step will be to calculate the average of all three employee's averages.
+ </summary>
+</member>
+</members>
+</doc>
